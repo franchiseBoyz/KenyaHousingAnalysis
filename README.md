@@ -18,7 +18,7 @@ This project is a **Flask-based API** that predicts housing prices for apartment
 
 ## Project Overview
 
-This is a **Kenya-based housing price prediction API** focusing on the cities of **Nairobi** and **Mombasa**. The data was scraped by [Beverlyn Akoth](https://www.kaggle.com/beverlyneakoth) from the Property24 website, which displays various apartment listings in Kenya. The scraped data includes the location, number of bedrooms, bathrooms, and, in some cases, floor sizes (though floor sizes were excluded due to a lack of sufficient data).
+This is a **Kenya-based housing price prediction API** focusing on the cities of **Nairobi** and **Mombasa**. The data includes the location, number of bedrooms, bathrooms, and, in some cases, floor sizes (though floor sizes were excluded due to a lack of sufficient data).
 
 The project uses **machine learning models** to predict the housing prices based on the available data. The best-performing model is deployed through the API, which users can interact with via a simple frontend or by sending requests directly to the API.
 
